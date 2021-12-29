@@ -6,7 +6,14 @@
 
 ## Usage :
 
-> initializing the db 
+> Install :
+```
+
+pip3 install rush_db
+
+```
+
+> initializing the database 
 
 ```
 
