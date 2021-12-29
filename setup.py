@@ -13,7 +13,7 @@ LONG_DESCRIPTION = 'rush-db makes working with data base easy by taking all the 
 
 # Setting up
 setup(
-    name="rush_db",
+    name="Rush_db",
     version=VERSION,
     author="astroxiii (abderrahim mokhnache)",
     author_email="<abderrahimokhnache@gmail.com>",

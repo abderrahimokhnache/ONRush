@@ -6,18 +6,27 @@
 
 ## Usage :
 
+
+
 > Install :
 ```
 
-pip3 install rush_db
+pip3 install Rush_db
 
 ```
+> import :
+```
+
+from Rush_db import Rush_db
+
+```
+
 
 > initializing the database 
 
 ```
 
-db = DBConnect(FN = 'sample.db', TN = 'Table_name',TC = '(cloumn1 text,column2 varchr)')
+db = Rush_db.DBConnect(FN = 'sample.db', TN = 'Table_name',TC = '(cloumn1 text,column2 varchr)')
 
 ```
 
