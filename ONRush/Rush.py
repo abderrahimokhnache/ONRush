@@ -1,7 +1,7 @@
 import sqlite3
 
 class DBConnect:
-	'''rush-db makes working with data base easy by taking all the heavy stuff'''
+	'''ONRush makes working with data base easy by taking all the heavy stuff'''
 
 	def __init__(self,**kwargs):
 		

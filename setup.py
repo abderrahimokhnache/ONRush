@@ -8,12 +8,12 @@ with codecs.open(os.path.join(here, "readme.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
 VERSION = '0.0.1'
-DESCRIPTION = 'Basic NO-SQL Packages Built upon SQLite'
-LONG_DESCRIPTION = 'rush-db makes working with data base easy by taking all the heavy stuff'
+DESCRIPTION = 'NO-SQL Packages Built upon SQLite'
+LONG_DESCRIPTION = 'ONRush makes working with data base easy by taking all the heavy stuff'
 
 # Setting up
 setup(
-    name="Rush_db",
+    name="ONRush",
     version=VERSION,
     author="astroxiii (abderrahim mokhnache)",
     author_email="<abderrahimokhnache@gmail.com>",
