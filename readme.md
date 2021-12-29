@@ -1,6 +1,6 @@
 # Rush-db
 
-## Basic NO-SQL Packages Built upon SQLite
+## NO-SQL Packages Built upon SQLite
 
 ### rush-db makes working with data base easy by taking all the heavy stuff
 
