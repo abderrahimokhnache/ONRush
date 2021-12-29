@@ -1,8 +1,0 @@
-LICENSE
-setup.py
-ONRush/Rush.py
-ONRush/__init__.py
-ONRush.egg-info/PKG-INFO
-ONRush.egg-info/SOURCES.txt
-ONRush.egg-info/dependency_links.txt
-ONRush.egg-info/top_level.txt
