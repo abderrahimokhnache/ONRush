@@ -1,8 +1,0 @@
-LICENSE
-setup.py
-Rush_db/Rush_db.py
-Rush_db/__init__.py
-Rush_db.egg-info/PKG-INFO
-Rush_db.egg-info/SOURCES.txt
-Rush_db.egg-info/dependency_links.txt
-Rush_db.egg-info/top_level.txt
