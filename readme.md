@@ -69,5 +69,8 @@ db.Listrequest2(Table_Name,ID,item)
 db.Update(Table_Name , Column , VL1 , Column1 ,VL2)
 
 ```
+PYPI : https://pypi.org/project/ONRush/
+
 ### i have made ONRush first for my Green-Hole project it's named as ``SQL.py``` 
+
 Check here : https://github.com/astroxiii/GREEN-HOLE 
