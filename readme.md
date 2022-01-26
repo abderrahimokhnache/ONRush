@@ -2,8 +2,6 @@
 
 ## NO-SQL Package Built upon SQLite
 
-### ONRush makes working with data base easy by taking all the heavy stuff
-
 ## Usage :
 
 
